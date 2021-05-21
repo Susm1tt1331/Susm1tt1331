@@ -5,13 +5,12 @@
 
 <p>
 <a href="https://twitter.com/SusmitManna5"><img src="https://img.shields.io/badge/twitter-@SusmitManna5-1da1f2?style=flat-square&logo=twitter">  </a>
-<a href="https://linkedin.com/in/susmit-manna-b107b31b8/"><img src="https://img.shields.io/badge/linkedin-susmit-manna-b107b31b8?style=flat-square&logo=linkedin">  </a>
-<a href="https://github.com/Susm1tt1331/"><img src="https://img.shields.io/badge/website-susm1tt1331.github.io/WeB-1/-1f425f?style=flat-square">  </a>
+com/Susm1tt1331/"><img src="https://img.shields.io/badge/website-susm1tt1331.github.io/WeB-1/-1f425f?style=flat-square">  </a>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=Susm1tt1331)
 
-* 🔭 I have worked as a GSoC student with <a href = "https://mifos.org/">The Mifos Initiative</a>
+* 🔭 I am currently studyin in Seacom Engineering College <a href = "https://www.seacomengineering.org/">S E C</a>
 * :rocket: I'm currently learning Astronomy, Deep Learning, ROS, and how startup works.
 * :speech_balloon: Ask me about Open-Source, Android, Python, or Machine Learning.
 * :thinking: I'm looking for help in Astronomy and Deep Learning.
