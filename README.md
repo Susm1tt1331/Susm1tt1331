@@ -10,12 +10,12 @@ com/Susm1tt1331/"><img src="https://img.shields.io/badge/website-susm1tt1331.git
 
 ![](https://komarev.com/ghpvc/?username=Susm1tt1331)
 
-* 🔭 I am currently studyin in Seacom Engineering College <a href = "https://www.seacomengineering.org/">S E C</a>
-* :rocket: I'm currently learning Astronomy, Deep Learning, ROS, and how startup works.
-* :speech_balloon: Ask me about Open-Source, Android, Python, or Machine Learning.
-* :thinking: I'm looking for help in Astronomy and Deep Learning.
-* 📫 How to reach me: Send an email to me at [shashank@amfoss.in](mailto:shashank@amfoss.in) or ping me on <a href = "https://t.me/iamsh4shank"> Telegram.</a>
-* :page_with_curl: Check out me <a href = "https://iamsh4shank.github.io/docs/cv.pdf">CV</a>
+* 😃: I am currently studyin in Seacom Engineering College <a href = "https://www.seacomengineering.org/">S E C</a>
+* 🧑‍🚀: Interested in Photography, Bodybuilding, Cricket, Gaming, Film Making <a href = "https://www.youtube.com/channel/UCYioZyj6t66o7JCmigGu56Q">I M P A L S</a>
+* 😄: Currently focusing on full stack web dev.
+* 🚁: Looking for help in faster fat buring , muscle building and JS.
+* 📫 How to reach me: Send an email to me at [susm1tt1331@protonmail.com](mailto:susm1tt1331@protonmail.com) or ping me on <a href = ""> Instagram.</a>
+* :page_with_curl: Check out me <a href = "https://susm1tt1331.github.io/WeB-1/">CV</a>
 * :smile: Pronouns: He/Him/His </a>
 
 
