@@ -5,7 +5,8 @@
 
 <p>
 <a href="https://twitter.com/SusmitManna5"><img src="https://img.shields.io/badge/twitter-@SusmitManna5-1da1f2?style=flat-square&logo=twitter">  </a>
-com/Susm1tt1331/"><img src="https://img.shields.io/badge/website-susm1tt1331.github.io/WeB-1/-1f425f?style=flat-square">  </a>
+<a href="https://www.linkedin.com/in/susmit-manna-b107b31b8/"><img src="https://img.shields.io/badge/linkedin-Susmit Manna-0077b5?style=flat-square&logo=linkedin">  </a>
+	<a href="https://susm1tt1331.github.io/WeB-1/"><img src="https://img.shields.io/badge/website-gitHub-1f425f?style=flat-square">  </a>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=Susm1tt1331)
