@@ -15,7 +15,7 @@
 * 🧑‍🚀: Interested in Photography, Bodybuilding, Cricket, Gaming, Film Making <a href = "https://www.youtube.com/channel/UCYioZyj6t66o7JCmigGu56Q">I M P A L S</a>
 * 😄: Currently focusing on full stack web dev.
 * 🚁: Looking for help in faster fat buring , muscle building and JS.
-* 📫 How to reach me: Send an email to me at [susm1tt1331@protonmail.com](mailto:susm1tt1331@protonmail.com) or ping me on <a href = ""> Instagram.</a>
+* 📫 How to reach me: Send an email to me at [susm1tt1331@protonmail.com](mailto:susm1tt1331@protonmail.com) or ping me on <a href = "https://www.instagram.com/_susmitt_/"> Instagram.</a>
 * :page_with_curl: Check out me <a href = "https://susm1tt1331.github.io/WeB-1/">CV</a>
 * :smile: Pronouns: He/Him/His </a>
 
