@@ -21,11 +21,8 @@
 
 
 
-<p align="center"><a href="https://github.com/Susm1tt1331"><img src="https://github-readme-stats.vercel.app/api?username=Susm1tt1331&theme=vision-friendly-dark&show_icons=true&hide_border=true" alt="Animated footer bars" /></a></p>
- 
-<!--
-**robustTechie/robustTechie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
---
+[![My github stats](https://github-readme-stats.vercel.app/api?username=Susm1tt1331&show_icons=true&theme=react&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![My github stats](https://github-readme-stats.vercel.app/api?username=Susm1tt1331&show_icons=true&theme=react&include_all_commits=false&hide=stars,prs,issues,contribs&hide_rank=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
